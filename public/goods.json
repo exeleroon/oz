@@ -2,7 +2,7 @@
         {
             "name": "t-shirt",
             "price": "200",
-            "src": "image_0.png",
+            "src": "image0.png",
             "article": "125",
             "color": "green",
             "id": "0"
